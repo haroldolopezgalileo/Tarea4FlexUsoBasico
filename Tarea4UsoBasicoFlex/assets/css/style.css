@@ -1,3 +1,4 @@
 h1 {
-    font-size: medium;
+  font-size: medium;
+  color: cyan; /* Agregué esta regla para probar el estilo */
 }
